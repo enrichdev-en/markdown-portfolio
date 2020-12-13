@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Key attributes in learning a new thing:
+1. *doing it*
+2. **understanding**
+3. ***practice, practice, pracite***
